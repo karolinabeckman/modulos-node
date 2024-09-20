@@ -1,4 +1,4 @@
-import calculos from "./calculos.js"
+import calculos from "./calculos.js" // é necessário especificar a extensão
 
 // console.log(calculos)
 
